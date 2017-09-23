@@ -16,7 +16,7 @@ Parse JavaScript **SDK API** - index of contents: [**html version**](https://cdn
 
 *Date:* Note that following spreadsheets are based on materials from **23.09.2017,** for the latest version hit the official sources above.
 
-*Contribution:* Feel free to ask me for editing privileges google spreadsheets.
+*Contribution:* Feel free to ask me for editing privileges on Google spreadsheets.
 
 License: [MIT](https://github.com/dariuszsikorski/parse-learning/blob/master/LICENSE)
 
